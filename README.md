@@ -12,3 +12,4 @@ Python3 translation of AutoDockTools
 `python.exe -m pip install git+https://github.com/Valdes-Tresanco-MS/AutoDockTools_py3`
 
 # This version is under test.
+python.exe -m pip install git+https://github.com/Valdes-Tresanco-MS/AutoDockTools_py3
